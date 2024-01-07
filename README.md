@@ -1,4 +1,4 @@
-# react_tutorial
+# React Tutorial
 React 18 の練習リポジトリです。
 
 ## 参考
